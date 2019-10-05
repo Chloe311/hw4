@@ -9,4 +9,11 @@ A:  Var x = 10 defines the value of X, which is 10.
     X = X + 10, after the loop runs, the x will increase 10 for the next run. 
     
 Q3: How many times does the loop body run each frame, once the x and y arrays are full?
-A： 
+A： 40 times.
+
+Q4: What are two ways of increasing the spacing between rings?
+A:  1) changing the increment within the for-loop
+    2) 
+
+Q5: How can you make the ellipse trail longer?
+A:  Add a frameRate
